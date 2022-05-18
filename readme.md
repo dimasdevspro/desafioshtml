@@ -1,5 +1,5 @@
 <h3 align="center">Desafios em HTML</h3>
-<p align="center"><img src="https://img.shields.io/badge/<HTML>-<green>"> <img src="https://img.shields.io/badge/<CSS>-<green>"><img src="https://img.shields.io/badge/<Javascript>-<green>"></p>
+<p align="center"><img src="https://img.shields.io/badge/<HTML>-<green>"> <img src="https://img.shields.io/badge/<CSS>-<green>"></p>
 ### Indice
 
 * [Sobre](#sobre)
